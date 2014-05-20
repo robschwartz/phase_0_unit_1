@@ -1,17 +1,18 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
+<a href="https://github.com/robschwartz/phase_0_unit_1/blob/master/week_2/1_Chrome_Dev_Tools/imgs/Code_School.png"></a>
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
-<img src="/Users/Robert/Desktop/DBC/phase_0_unit_1/week_2/1_Chrome_Dev_Tools/Code_School.png">
+
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
-  * Realtime editing of HTML and CSS
+  * Realtime editing of HTML and CSS-
       The elements tab within the element inspector (this is opened by using alt+command+I) allows you to make realtime changes of HTML and CSS
-  * Javascript Debugging
+  * Javascript Debugging-
       Javascript can be debugged automatically using one of Chrome's Dev tools called "Page Speed". You will need to download it first from the Chrome Web Store. There is a nice intro and tutorial that explains how to use it. It is a great tool for web optimization.
-  * Performance Optimization 
+  * Performance Optimization- 
       The "Network" tab allows you to view how long it takes each element to load. By making minor and maybe major changes, you can increase the speed your page loads. 
-* What's the quick key for your OS to spawn the Dev Tools inspector?
+* What's the quick key for your OS to spawn the Dev Tools inspector?-
 
      alt + command + I
 
