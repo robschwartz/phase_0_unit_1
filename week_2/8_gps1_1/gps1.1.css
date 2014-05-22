@@ -1,11 +1,30 @@
+<<<<<<< HEAD
   <style>
     body{
     background-color: black;
     font: white
+=======
+<style>
+    body{
+    background-color: black;
+    color: white;
+    font-family: arial;
+    margin: 50px;
+>>>>>>> FETCH_HEAD
     }
     #header{
     font-family: times;
     background-color: #86B22D;
+<<<<<<< HEAD
     }
 
     </style>/* include your css here */
+=======
+    color: black;
+    margin: 50px 100px 50px 100px;
+    text-align: center;
+    border-radius: 50px
+    }
+
+    </style> 
+>>>>>>> FETCH_HEAD
