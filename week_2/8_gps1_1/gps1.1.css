@@ -1,1 +1,17 @@
-/* include your css here */
+<style>
+    body{
+    background-color: black;
+    color: white;
+    font-family: arial;
+    margin: 50px;
+    }
+    #header{
+    font-family: times;
+    background-color: #86B22D;
+    color: black;
+    margin: 50px 100px 50px 100px;
+    text-align: center;
+    border-radius: 50px
+    }
+
+    </style> 
