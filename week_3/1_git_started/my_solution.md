@@ -63,4 +63,4 @@ status- shows the files that are ready to be committed
 
 ## Release 5: Reflection
 
-My biggest issue with this challange has been seeing my commits live on the github site. Everything in the terminal makes it seem like the commit goes through but I just don't see it live. Honestly, the git app was a lot easier to use and I don't understand why we can't use it professionally. It's like using a flint and a rock to light a fire when we have matches in our hands. 
+My biggest issue with this challange has been seeing my commits live on the github site. Everything in the terminal makes it seem like the commit goes through but I just don't see it live. Honestly, the git app was a lot easier to use and I don't understand why we can't use it professionally. It's like using a flint and a rock to light a fire when we have matches in our hands. I have figured it out, but I like the app much better. It's quicker and easier to use. 

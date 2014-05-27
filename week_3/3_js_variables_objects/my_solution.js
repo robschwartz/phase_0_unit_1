@@ -48,11 +48,15 @@ function assert(test, message, test_number) {
   return true;
 }
 
+var secretNumber = 1;
+
 assert(
   (typeof secretNumber === 'number'),
   "The value of secretNumber should be a number.",
   "1. "
 )
+
+var secretNumber = 7;
 
 assert(
   secretNumber === 7,
@@ -60,11 +64,15 @@ assert(
   "2. "
 )
 
+var password = "hello";
+
 assert(
   typeof password === 'string',
   "The value of password should be a string.",
   "3. "
 )
+
+var password = "just open the door";
 
 assert(
   password === "just open the door",
@@ -72,11 +80,15 @@ assert(
   "4. "
 )
 
+var allowedIn = true;
+
 assert(
   typeof allowedIn === 'boolean',
   "The value of allowedIn should be a boolean.",
   "5. "
 )
+
+allowedIn = false;
 
 assert(
   allowedIn === false,
@@ -84,17 +96,23 @@ assert(
   "6. "
 )
 
+var members = ["Sebastian", "Rob"];
+
 assert(
   members instanceof Array,
   "The value of members should be an array",
   "7. "
 )
 
+members.unshift("John");
+
 assert(
   members[0] === "John",
   "The first element in the value of members should be 'John'.",
   "8. "
 )
+
+members.push("Mary");
 
 assert(
   members[3] === "Mary",
