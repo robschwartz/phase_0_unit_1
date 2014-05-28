@@ -132,3 +132,27 @@
  
 // Reflection:
 // Write your reflection here.
+// ·         What is this referring to? Think programming-wise rather than in the terms of the game.
+// “this” is referring to the object/ variable you are currently manipulating.
+// 
+// ·         What does the () do in JavaScript?
+// 
+// The () allows you to specify the method parameters. For instance, in the game when using 
+// “this.moveXY(xx, yy)” the “xx, yy’ in the () specify where you want the object to move to.
+// 
+// ·         What is the point of the semicolons?
+// The semicolons let Javascript know to STOP the function at that point. 
+// It allowed us to start a new function after that. If we didn’t have semicolons, the function would run 
+// through all of the code and it would translate into an error. 
+
+// Reflection:
+// This challenge was right up my alley. I started to learn programming by 
+// using Code Academy which got me used to the “learn skill --> practice skill” type of learning. 
+// The challenges were pretty straight forward and the resources available were very useful. They gave 
+// you everything you needed in terms of command options and command definitions. I’m sure there is a lot 
+// more to JS than this but it was fun to see how it interacts with the different objects on the screen. 
+// There is a bit of a different syntax from the other languages we have learnt, for instance- in Ruby 
+// we end and If statement with “end” where in JS we end it with “;”. The only problems I faced in this 
+// challenge was playing with the direction of the .move command and how far the item went. It took a bit 
+// of experimentation but was easy enough to figure out. I am excited to get deeper into JavaScript and 
+// learn how to take what we learnt and apply it to our website. 
