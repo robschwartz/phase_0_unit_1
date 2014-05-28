@@ -58,3 +58,5 @@ var printClient = function(inputClient) {
 
 
 //  6.  Your Reflection:
+This project was a little more advanced than I thought we would have done at this point. I was lucky enough to pair with someone that did a week long JavaScript training so he really helped pull me along in the project. As we were going through the solutions and playing around with different syntax, we both realized it is similar to Ruby syntax. It makes sense now that in every section of the JS intro, they relate it to Ruby.
+The project went well and pairing on this definitely helped. The Instructor was great also, Jonathon Xu. He let us work on the code as we were supposed to but had us lean in the right direction when we were close. 
