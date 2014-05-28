@@ -1,13 +1,14 @@
 // GPS 1.2 - JavaScript
 
 // YOUR FULL NAMES:
-//  1.
+//  1. Cassidy Clawson
 //  2.
 
 
 // 0. "YOU SIGNED... WHO?!"
 
-
+Edward Norton
+Emma Stone
 
 
 // 1. "Here they Come!"
