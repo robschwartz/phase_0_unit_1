@@ -16,5 +16,6 @@ Have it equal to total / length of the array
 First put the array in order 
 then find the length of the array
 then divide by 2 
-if even, subtract 1 and use that number to call that location in the array.
+(this should be an if/else statment):
+if no remainder, subtract 1 and use that number to call that location in the array.
 if there's a remainder, round down and use that number to call the location in the array. 
